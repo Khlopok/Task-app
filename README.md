@@ -1,6 +1,6 @@
 # Task-app
 
-This is a small app that works as React practice.
+This is a small app that works as React practice, you can add tasks, remove then and mark them as done.
 
 ## Usage
 
